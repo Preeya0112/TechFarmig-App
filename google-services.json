@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726158895242",
+    "project_id": "tech-farming-46383",
+    "storage_bucket": "tech-farming-46383.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726158895242:android:88a822f4874c088c636573",
+        "android_client_info": {
+          "package_name": "com.example.techfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726158895242-g8a28vb0a8h0bd7lpgh48nth98i90eh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techfarming",
+            "certificate_hash": "c4a87bffd02bfae2dc2e95f139ece453ab6f5dd7"
+          }
+        },
+        {
+          "client_id": "726158895242-qplj3tid14tn1ef73vmkbjej452ibbs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkW4Ly0twSGb5kM03W9HZr5HaYJfkDWVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726158895242-qplj3tid14tn1ef73vmkbjej452ibbs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
