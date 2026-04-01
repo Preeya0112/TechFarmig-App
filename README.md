@@ -47,7 +47,6 @@ Welcome to Tech Farming App, an innovative application designed to assist farmer
 # Project Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/amanbhobhria/Tech-Farming-App.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
@@ -69,7 +68,5 @@ We welcome contributions to improve the Tech Farming App. If you would like to c
 ## License
 Tech Farming App is licensed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-For any queries or support, please contact us at bhobhriaaman.33@gmail.com
 
 Thank you for using Tech Farming App! We hope you have a great experience.
